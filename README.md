@@ -2,4 +2,6 @@
 Force Touch allows you control your mouse pointer by moving your hand in front of a camera. Very wizardy!
 
 
-I will soon add a install.sh
+You need python 3.12 at most to run this, because of Mediapipe not being compatible with Python3.13
+
+then create a virtual enviroment with this version of python
